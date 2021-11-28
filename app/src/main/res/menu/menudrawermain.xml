@@ -6,8 +6,9 @@
     <item android:id="@+id/navDrawerBBC"
         android:title="BBC News"
         android:orderInCategory="1"
-        app:showAsAction="always"
-        android:icon="@drawable/baseline_article_black_24dp"/>
+        app:showAsAction="never"
+
+        />
 
 
 </menu>

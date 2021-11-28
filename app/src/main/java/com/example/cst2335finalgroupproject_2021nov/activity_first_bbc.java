@@ -47,6 +47,8 @@ public class activity_first_bbc extends AppCompatActivity {
      * adapter for retreiving views and details of article
      */
 
+
+
     private adapter_bbc adapterbbc;
 
     /**

@@ -32,11 +32,10 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
     }
 
     private void setupActionBarAndDrawer() {
-        //For ToolBar:
+
         Toolbar toolbar = findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
-        //For NavigationDrawer:
         DrawerLayout drawer = findViewById(R.id.drawer_layout);
         ActionBarDrawerToggle toggle = new ActionBarDrawerToggle(this, drawer, toolbar, R.string.open, R.string.close);
         drawer.addDrawerListener(toggle);

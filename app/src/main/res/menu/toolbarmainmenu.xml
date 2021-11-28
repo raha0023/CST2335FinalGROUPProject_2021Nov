@@ -6,7 +6,7 @@
         android:id="@+id/actionLaunchBBC"
         android:icon="@drawable/bbc_news"
         android:title="@string/bbc_news"
-        app:showAsAction="ifRoom" />
+        app:showAsAction="never" />
 
 
 </menu>

@@ -17,11 +17,8 @@
         <!-- Customize your theme here. -->
     </style>
 
-    <style name="Theme.CST2335FinalGROUPProject_2021Nov.NoActionBar">
-        <item name="windowActionBar">false</item>
-        <item name="windowNoTitle">true</item>
 
-    </style>
+
 
     <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
 
