@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">CST2335-FinalProject</string>
+
+    <string name="link">Lien pour l\'article</string>
+
+    <string name="Name">Nom</string>
+
+    <string name="toast_message">Voici plus d\'information</string>
+
+    <string name="snackbar_message1">L\'article a ete ajoutee a tes favoris</string>
+
+    <string name="snackbar_message">Une list de t\'es articles prefere ce trouve ici: </string>
+
+    <string name="undo_message">Annuler avec success</string>
+
+    <string name="search_toast">Vous avez cliquee Rechercher</string>
+
+    <string name="help_toast">Vous avez cliquee Aider</string>
+
+    <string name="mail_toast">Vous avez cliquee le courriel</string>
+
+    <string name="help_menu">Menu d\'aide</string>
+
+    <string name="help__menu_title">Information:</string>
+
+    <string name="help_alert">Aider: Pour utiliser cette application, vous aurez besoin de selectionner et sauve-guarder ton article prefer en cliquand sur le "coeur" et "Ajoutee au Favoris". Pour acceder vos favorits, cliquer lebouton de "Coeur" a coter de la bar a recherche dans le haut a la droite. Vous pouvez effacer vos favoris en accedant la page favoris et cliquer sure le bouton de poubelle. </string>
+
+    <string name="bbc_news">Nouvelles BBC</string>
+
+    <string name="open">Ouvrire</string>
+
+    <!-- for DrawerLayout actionbar-->
+
+
+    <string name="close">Fermer</string>
+
+    <!-- for DrawerLayout actionbar-->
+
+
+    <string name="searchHint">Ecrire votre recherche ici:</string>
+
+    <!-- hint for searchbar -->
+
+
+    <string name="search">Rechercher</string>
+
+    <string name="favorites">Favoris</string>
+
+    <string name="help">Aider</string>
+
+    <string name="title">Titre: </string>
+
+    <string name="url">Url: </string>
+
+    <string name="yes">Oui</string>
+
+    <string name="no">Non</string>
+
+    <string name="alert_title">Est-vous certain que vous voulez ajouter a vos favoris?</string>
+
+    <string name="alert_add">Ajouter aux favoris</string>
+
+    <string name="alert_add_negative_toast">Quelque chose ne va pas, verifier votre list d\'article</string>
+
+    <string name="alert_negative_btn">Annuler</string>
+
+    <string name="alert_cancel_toast">Tache annulee</string>
+
+    <string name="undo">Annuler</string>
+
+    <string name="progress_dialog_msg">Chargement en cours, attendez SVP</string>
+
+    <string name="sample_email">email@example.com</string>
+
+    <string name="body_text">Paragraph principal</string>
+
+    <string name="subj_here">Sujet ici</string>
+
+    <string name="text_plain">paragraph/normal</string>
+
+    <string name="ok">OK</string>
+
+    <string name="always">Toujours</string>
+
+    <string name="always_collapseAction">always collapseActionView</string>
+
+    <string name="Title">Titre</string>
+
+    <string name="Description">Description</string>
+
+    <string name="Link">Lien pour l\'article</string>
+
+    <string name="Search">Rechercher</string>
+
+    <string name="BlankFragment">Fragment Vierge</string>
+
+</resources>

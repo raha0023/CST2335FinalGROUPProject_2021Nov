@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Chrome Downloads/CST2335FinalGROUPProject_2021Nov/app/src/main/res/layout-land/bbc_first_activity.xml" value="0.44947916666666665" />
+        <entry key="..\:/Chrome Downloads/CST2335FinalGROUPProject_2021Nov/app/src/main/res/layout-sw720dp/bbc_first_activity.xml" value="0.278125" />
+        <entry key="..\:/Chrome Downloads/CST2335FinalGROUPProject_2021Nov/app/src/main/res/layout/activity_bbc_first.xml" value="0.3691123188405797" />
+        <entry key="..\:/Chrome Downloads/CST2335FinalGROUPProject_2021Nov/app/src/main/res/layout/activity_empty.xml" value="0.3908514492753623" />
+        <entry key="..\:/Chrome Downloads/CST2335FinalGROUPProject_2021Nov/app/src/main/res/layout/activity_favorite_details_holder.xml" value="0.3908514492753623" />
+        <entry key="..\:/Chrome Downloads/CST2335FinalGROUPProject_2021Nov/app/src/main/res/layout/activity_main.xml" value="0.2674772036474164" />
+        <entry key="..\:/Chrome Downloads/CST2335FinalGROUPProject_2021Nov/app/src/main/res/layout/activity_main_content.xml" value="0.3908514492753623" />
+        <entry key="..\:/Chrome Downloads/CST2335FinalGROUPProject_2021Nov/app/src/main/res/layout/activity_main_deseign.xml" value="0.2674772036474164" />
+        <entry key="..\:/Chrome Downloads/CST2335FinalGROUPProject_2021Nov/app/src/main/res/layout/bbc_article_list_layout.xml" value="0.3908514492753623" />
+        <entry key="..\:/Chrome Downloads/CST2335FinalGROUPProject_2021Nov/app/src/main/res/layout/bbc_fav_item.xml" value="0.3908514492753623" />
+        <entry key="..\:/Chrome Downloads/CST2335FinalGROUPProject_2021Nov/app/src/main/res/layout/bbc_fav_list.xml" value="0.3908514492753623" />
+        <entry key="..\:/Chrome Downloads/CST2335FinalGROUPProject_2021Nov/app/src/main/res/layout/bbc_first_activity.xml" value="0.3908514492753623" />
+        <entry key="..\:/Chrome Downloads/CST2335FinalGROUPProject_2021Nov/app/src/main/res/layout/bbc_item.xml" value="0.25" />
+        <entry key="..\:/Chrome Downloads/CST2335FinalGROUPProject_2021Nov/app/src/main/res/layout/fragment_bbc.xml" value="0.37395833333333334" />
+        <entry key="..\:/Chrome Downloads/CST2335FinalGROUPProject_2021Nov/app/src/main/res/layout/fragment_details.xml" value="0.37395833333333334" />
+        <entry key="..\:/Chrome Downloads/CST2335FinalGROUPProject_2021Nov/app/src/main/res/layout/fragment_favorite_details.xml" value="0.37083333333333335" />
+        <entry key="..\:/Chrome Downloads/CST2335FinalGROUPProject_2021Nov/app/src/main/res/layout/header_layout.xml" value="0.3908514492753623" />
+        <entry key="..\:/Chrome Downloads/CST2335FinalGROUPProject_2021Nov/app/src/main/res/menu/bbc_menu.xml" value="0.55" />
+        <entry key="..\:/Chrome Downloads/CST2335FinalGROUPProject_2021Nov/app/src/main/res/menu/bbcmainmenu.xml" value="0.33229166666666665" />
+        <entry key="..\:/Chrome Downloads/CST2335FinalGROUPProject_2021Nov/app/src/main/res/menu/main_drawer_menu.xml" value="0.55" />
+        <entry key="..\:/Chrome Downloads/CST2335FinalGROUPProject_2021Nov/app/src/main/res/menu/main_toolbar_menu.xml" value="0.55" />
+        <entry key="..\:/Chrome Downloads/CST2335FinalGROUPProject_2021Nov/app/src/main/res/menu/menu_drawer_main.xml" value="0.37083333333333335" />
+        <entry key="..\:/Chrome Downloads/CST2335FinalGROUPProject_2021Nov/app/src/main/res/menu/menu_nav_bar_main.xml" value="0.328125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.3296875" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

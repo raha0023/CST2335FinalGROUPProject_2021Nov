@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/helpicon"
+        android:icon="@drawable/baseline_help_black_24dp"
+        android:orderInCategory="400"
+        android:title="@string/help_menu"
+        app:showAsAction="always" />
+
+    <item android:id="@+id/mail"
+        android:icon="@drawable/baseline_article_black_24dp"
+        android:orderInCategory="75"
+        app:showAsAction="always"
+        android:title="@string/always"/>
+
+
+</menu>
