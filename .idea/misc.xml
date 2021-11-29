@@ -3,11 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Chrome Downloads/CST2335FinalGROUPProject_2021Nov/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.5703125" />
         <entry key="..\:/Chrome Downloads/CST2335FinalGROUPProject_2021Nov/app/src/main/res/drawable/ic_info_outline.xml" value="0.3314814814814815" />
         <entry key="..\:/Chrome Downloads/CST2335FinalGROUPProject_2021Nov/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3314814814814815" />
         <entry key="..\:/Chrome Downloads/CST2335FinalGROUPProject_2021Nov/app/src/main/res/layout-land/bbc_first_activity.xml" value="0.44947916666666665" />
         <entry key="..\:/Chrome Downloads/CST2335FinalGROUPProject_2021Nov/app/src/main/res/layout-land/bbcfirstactivity.xml" value="0.25132275132275134" />
         <entry key="..\:/Chrome Downloads/CST2335FinalGROUPProject_2021Nov/app/src/main/res/layout-sw720dp/bbc_first_activity.xml" value="0.278125" />
+        <entry key="..\:/Chrome Downloads/CST2335FinalGROUPProject_2021Nov/app/src/main/res/layout-sw720dp/bbcfirstactivity.xml" value="0.415625" />
         <entry key="..\:/Chrome Downloads/CST2335FinalGROUPProject_2021Nov/app/src/main/res/layout/activity_bbc_first.xml" value="0.3691123188405797" />
         <entry key="..\:/Chrome Downloads/CST2335FinalGROUPProject_2021Nov/app/src/main/res/layout/activity_empty.xml" value="0.3908514492753623" />
         <entry key="..\:/Chrome Downloads/CST2335FinalGROUPProject_2021Nov/app/src/main/res/layout/activity_fav_detail.xml" value="0.31521739130434784" />
